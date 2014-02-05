@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/jbehave/jbehave-core.png)](https://travis-ci.org/jbehave/jbehave-core)
 
-# JBehave
+# LOLBEHAVE
 
 JBehave is a BDD framework for Java and Groovy, mirrored [at Github](https://github.com/jbehave/jbehave-core), definitive repo [at Codehaus](http://xircles.codehaus.org/projects/jbehave).
 
